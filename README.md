@@ -82,5 +82,5 @@ https://github.com/EverGreen992
 https://EverGreen992.github.io/Portfolio-Website/
 
 ---
-👤 ## Author
+👤 **Author
 Glory Chidinma Chibuike 
