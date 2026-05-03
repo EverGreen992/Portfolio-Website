@@ -30,6 +30,14 @@ section {
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
+h1 {
+    color: white;
+}
+
+.subtitle {
+    color: #d1fae5;
+}
+
 h2 {
   color: #0a7d32;
 }
