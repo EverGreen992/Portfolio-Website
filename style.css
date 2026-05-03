@@ -4,7 +4,7 @@ body {
   background: #f5fff7;
   color: #222;
 }
-.profile {
+profile {
   width: 150px;
   height: 150px;
   object-fit: cover;
