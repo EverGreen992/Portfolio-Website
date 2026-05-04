@@ -78,3 +78,26 @@ header {
     font-size: 1.05rem;
     color: #e8f5e9;
 }
+
+#education {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+#education .card {
+    background: white;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 500px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+#education h2 {
+    margin-bottom: 20px;
+}
+
+#education h3 {
+    color: #15803d;
+    margin-bottom: 10px;
+}
