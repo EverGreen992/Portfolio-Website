@@ -1,6 +1,6 @@
 # Glory Chidinma Chibuike – Professional Portfolio
 
-Welcome to my personal portfolio repository. This portfolio highlights my background, certifications, technical skills, and practical projects in IT support, cloud computing, digital systems, and business automation.
+Welcome to my personal portfolio repository. This portfolio highlights my background, certifications, professional skills, practical projects and Educational Resources in Digital Literacy, Educational Technology, Scractch Programming, and Lesson Development.
 
 ---
 
@@ -13,29 +13,29 @@ https://EverGreen992.github.io/Portfolio-Website/
 
 ## Professional Summary
 
-Computer Science Graduate with growing experience and interests in:
-
-- IT / Administrative Support  
-- Cloud Computing  
-- Digital Systems  
-- Business Process Automation  
-- Customer Technical Support  
-- Data Entry & Systems Support  
-
-I enjoy using tools such as Google Workspace, Microsoft Office Suite, GitHub, Microsoft Access, and automation solutions to improve workflows and productivity.
-
+Computer Science graduate and Digital Literacy & Technology Teacher with a passion for helping young learners become confident users and creators of technology.
+I design engaging classroom lessons, practical coding activities, and digital learning resources aligned with the Nigerian secondary school curriculum.
+Beyond teaching, I enjoy developing educational materials, creating interactive classroom projects, and continuously learning emerging technologies such as Artificial Intelligence, Robotics, Cloud Computing Fundamentals and Programming.
+My goal is to inspire students to solve real-world problems using technology while preparing them for future careers in the digital economy
 ---
 
 ## Core Skills
 
-- IT Support & Troubleshooting  
-- Cloud Computing Fundamentals  
-- Administrative Technology Support  
-- Data Entry & Record Management  
-- Dashboard Reporting  
-- Process Automation  
-- Google Apps Script  
-- Microsoft Office 365  
+- Classroom Management  
+- Lesson Planning
+- Project-Based Learning  
+- Curriculum Development  
+- Student Assessment
+- Internet Safety 
+- Scratch Programming  
+- Robotics
+- Cloud Computing Fundamentals
+- Python (Basics)
+- HTML & CSS
+- Internet of Things Concepts
+- Artificial Intelligence (AI) Fundamentals  
+- Google Workspace  
+- Microsoft Office Suite  
 - Microsoft Access Database  
 - GitHub Portfolio Management  
 - Customer Technical Support  
@@ -66,7 +66,7 @@ I enjoy using tools such as Google Workspace, Microsoft Office Suite, GitHub, Mi
 
 ## Career Objective
 
-To contribute my technical, administrative, and support skills in a growth-focused organization while continuously developing in IT support, cloud computing, and digital operations.
+To inspire and equip learners with practical digital literacy, coding, robotics, and emerging technology skills through engaging, learner-centered education, while developing innovative educational resources that prepare students for success in an increasingly digital world.
 
 ---
 
