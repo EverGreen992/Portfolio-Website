@@ -52,7 +52,7 @@ My goal is to inspire students to solve real-world problems using technology whi
 
 ## Featured Projects
 
-- Enterprise Project Governance Reporting System  
+- Scratch Project (Catching Apples)
 - Sales Performance Dashboard  
 - Cloud Computing Models Comparison  
 - Automated Weekly Sales Report System  
